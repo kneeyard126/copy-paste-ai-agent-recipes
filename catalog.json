@@ -1,0 +1,87 @@
+[
+  {
+    "id": "code-review",
+    "title": "Code Review Agent",
+    "file": "recipes/code-review.md",
+    "category": "engineering",
+    "summary": "Review a pull request for bugs, regressions, missing tests, and risky assumptions."
+  },
+  {
+    "id": "test-writer",
+    "title": "Test Writer Agent",
+    "file": "recipes/test-writer.md",
+    "category": "engineering",
+    "summary": "Add focused tests that match the existing codebase style."
+  },
+  {
+    "id": "bug-hunt",
+    "title": "Bug Hunt Agent",
+    "file": "recipes/bug-hunt.md",
+    "category": "engineering",
+    "summary": "Reproduce, isolate, fix, and verify a bug."
+  },
+  {
+    "id": "dependency-upgrade",
+    "title": "Dependency Upgrade Agent",
+    "file": "recipes/dependency-upgrade.md",
+    "category": "engineering",
+    "summary": "Upgrade dependencies with risk notes and verification."
+  },
+  {
+    "id": "docs-refresh",
+    "title": "Docs Refresh Agent",
+    "file": "recipes/docs-refresh.md",
+    "category": "documentation",
+    "summary": "Update stale docs so they match current behavior."
+  },
+  {
+    "id": "release-notes",
+    "title": "Release Notes Agent",
+    "file": "recipes/release-notes.md",
+    "category": "documentation",
+    "summary": "Turn commits and pull requests into useful release notes."
+  },
+  {
+    "id": "sql-analyst",
+    "title": "SQL Analyst Agent",
+    "file": "recipes/sql-analyst.md",
+    "category": "data",
+    "summary": "Produce trustworthy SQL analysis with assumptions and caveats."
+  },
+  {
+    "id": "support-triage",
+    "title": "Support Triage Agent",
+    "file": "recipes/support-triage.md",
+    "category": "support",
+    "summary": "Classify support messages and propose next actions."
+  },
+  {
+    "id": "meeting-to-actions",
+    "title": "Meeting to Actions Agent",
+    "file": "recipes/meeting-to-actions.md",
+    "category": "operations",
+    "summary": "Convert notes or transcripts into decisions, owners, and tasks."
+  },
+  {
+    "id": "prd-to-tickets",
+    "title": "PRD to Tickets Agent",
+    "file": "recipes/prd-to-tickets.md",
+    "category": "product",
+    "summary": "Break a product brief into buildable engineering tickets."
+  },
+  {
+    "id": "incident-postmortem",
+    "title": "Incident Postmortem Agent",
+    "file": "recipes/incident-postmortem.md",
+    "category": "operations",
+    "summary": "Write a blameless incident postmortem with follow-up actions."
+  },
+  {
+    "id": "marketing-page-critic",
+    "title": "Marketing Page Critic Agent",
+    "file": "recipes/marketing-page-critic.md",
+    "category": "marketing",
+    "summary": "Audit a landing page for clarity, trust, conversion, and messaging."
+  }
+]
+

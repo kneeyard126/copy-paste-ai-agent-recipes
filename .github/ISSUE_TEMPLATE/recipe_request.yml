@@ -1,0 +1,30 @@
+name: Recipe request
+description: Suggest a new AI agent recipe.
+title: "Recipe: "
+labels: ["recipe"]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What real-world workflow should the recipe help with?
+      placeholder: "Example: reviewing Terraform changes before production deploy"
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Inputs
+      description: What context should the agent receive?
+      placeholder: "Repo, pull request diff, service owner, runbook..."
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Desired output
+      description: What should the agent produce?
+      placeholder: "Risk table, exact commands, test plan, owner notes..."
+    validations:
+      required: true
+
