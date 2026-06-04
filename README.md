@@ -4,6 +4,8 @@ Practical, copy-ready workflows for using AI agents on real work.
 
 [中文说明](README.zh-CN.md)
 
+Also useful for: AI agent prompts, prompt templates, ChatGPT prompts, Claude Code workflows, Cursor prompts, Codex workflows, Windsurf workflows, agentic workflow templates, and AI productivity playbooks.
+
 [![Stars](https://img.shields.io/github/stars/kneeyard126/copy-paste-ai-agent-recipes?style=flat-square)](https://github.com/kneeyard126/copy-paste-ai-agent-recipes/stargazers)
 [![License](https://img.shields.io/github/license/kneeyard126/copy-paste-ai-agent-recipes?style=flat-square)](LICENSE)
 [![Validate](https://img.shields.io/github/actions/workflow/status/kneeyard126/copy-paste-ai-agent-recipes/validate.yml?branch=main&style=flat-square)](https://github.com/kneeyard126/copy-paste-ai-agent-recipes/actions)

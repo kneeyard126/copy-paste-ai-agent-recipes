@@ -2,6 +2,8 @@
 
 一套可以直接复制使用的 AI Agent 工作流模板。
 
+关键词：AI Agent 提示词、AI 智能体工作流、Agent 提示词模板、ChatGPT 提示词、Claude Code 工作流、Cursor 提示词、Codex 工作流、Windsurf 工作流、AI 工作流模板、提示词工程、Prompt 模板、AI Agent Cookbook。
+
 这个仓库不是做一个复杂工具，而是学习 GitHub 上很多高星轻量项目的做法：把一个需求明确、经常被搜索、马上能用的东西整理成稳定格式。
 
 ## 这个仓库解决什么问题
@@ -52,7 +54,21 @@
 3. 粘贴到 ChatGPT、Claude、Gemini、Codex、Cursor、Windsurf 等 AI 工具。
 4. 要求模型严格按照 Output Contract 输出。
 
+## 适合搜索这些词的人
+
+如果你正在找下面这些东西，这个仓库就是为你准备的：
+
+- AI Agent 提示词怎么写
+- AI Agent 工作流模板
+- ChatGPT / Claude / Gemini / Cursor / Codex 可复制 Prompt
+- AI 编程助手 Code Review Prompt
+- PRD 拆解、会议纪要、客服分流、SQL 分析的 AI 工作流
+- 适合团队复用的提示词工程模板
+
 ## 贡献
 
 如果要添加新 recipe，请参考 [recipes/_template.md](recipes/_template.md) 和 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## 传播计划
+
+中文传播和 SEO 关键词建议见 [docs/promotion-plan.zh-CN.md](docs/promotion-plan.zh-CN.md)。
