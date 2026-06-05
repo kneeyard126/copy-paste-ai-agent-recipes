@@ -2,9 +2,9 @@
 
 一套可以直接复制使用的 AI Agent 工作流模板。
 
-关键词：AI Agent 提示词、AI 智能体工作流、Agent 提示词模板、ChatGPT 提示词、Claude Code 工作流、Cursor 提示词、Codex 工作流、Windsurf 工作流、AI 工作流模板、提示词工程、Prompt 模板、AI Agent Cookbook。
+适用于 ChatGPT、Claude、Gemini、Codex、Cursor、Windsurf 等可以遵循结构化指令的 AI 工具。
 
-这个仓库不是做一个复杂工具，而是学习 GitHub 上很多高星轻量项目的做法：把一个需求明确、经常被搜索、马上能用的东西整理成稳定格式。
+这个仓库把常见工作场景整理成可复用的 AI Agent recipe：每个 recipe 都包含输入、执行步骤、输出格式和质量检查。
 
 ## 这个仓库解决什么问题
 
@@ -35,17 +35,11 @@
 | [Incident Postmortem Agent](recipes/incident-postmortem.md) | 写无责事故复盘 |
 | [Marketing Page Critic Agent](recipes/marketing-page-critic.md) | 检查落地页文案和转化问题 |
 
-## 为什么这种项目可能拿星
+## 为什么需要它
 
-高星轻量项目通常不是赢在技术复杂度，而是赢在：
+很多 AI 提示词只告诉模型“你是某某专家”，但真正工作时还需要更完整的结构：要给什么输入、按什么步骤做、输出成什么格式、如何检查答案质量。
 
-- 名字就是承诺
-- 打开 README 立刻有用
-- 内容结构稳定，方便收藏
-- 贡献门槛低
-- 选题踩中长期需求或热点趋势
-
-这个仓库选择 AI Agent recipes，是因为它同时满足“搜索热度高”“内容容易持续扩展”“用户能马上复制使用”这三个条件。
+这个仓库的目标是把这些结构沉淀下来，让个人和团队可以直接复用。
 
 ## 怎么用
 
@@ -54,21 +48,6 @@
 3. 粘贴到 ChatGPT、Claude、Gemini、Codex、Cursor、Windsurf 等 AI 工具。
 4. 要求模型严格按照 Output Contract 输出。
 
-## 适合搜索这些词的人
-
-如果你正在找下面这些东西，这个仓库就是为你准备的：
-
-- AI Agent 提示词怎么写
-- AI Agent 工作流模板
-- ChatGPT / Claude / Gemini / Cursor / Codex 可复制 Prompt
-- AI 编程助手 Code Review Prompt
-- PRD 拆解、会议纪要、客服分流、SQL 分析的 AI 工作流
-- 适合团队复用的提示词工程模板
-
 ## 贡献
 
 如果要添加新 recipe，请参考 [recipes/_template.md](recipes/_template.md) 和 [CONTRIBUTING.md](CONTRIBUTING.md)。
-
-## 传播计划
-
-中文传播和 SEO 关键词建议见 [docs/promotion-plan.zh-CN.md](docs/promotion-plan.zh-CN.md)。

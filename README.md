@@ -4,9 +4,8 @@ Practical, copy-ready workflows for using AI agents on real work.
 
 [中文说明](README.zh-CN.md)
 
-Also useful for: AI agent prompts, prompt templates, ChatGPT prompts, Claude Code workflows, Cursor prompts, Codex workflows, Windsurf workflows, agentic workflow templates, and AI productivity playbooks.
+Works with ChatGPT, Claude, Gemini, Codex, Cursor, Windsurf, and other assistants that can follow structured instructions.
 
-[![Stars](https://img.shields.io/github/stars/kneeyard126/copy-paste-ai-agent-recipes?style=flat-square)](https://github.com/kneeyard126/copy-paste-ai-agent-recipes/stargazers)
 [![License](https://img.shields.io/github/license/kneeyard126/copy-paste-ai-agent-recipes?style=flat-square)](LICENSE)
 [![Validate](https://img.shields.io/github/actions/workflow/status/kneeyard126/copy-paste-ai-agent-recipes/validate.yml?branch=main&style=flat-square)](https://github.com/kneeyard126/copy-paste-ai-agent-recipes/actions)
 
@@ -43,17 +42,11 @@ Each recipe gives you:
 | [Incident Postmortem Agent](recipes/incident-postmortem.md) | Writing calm, blameless postmortems | Timeline, causes, actions |
 | [Marketing Page Critic Agent](recipes/marketing-page-critic.md) | Improving a landing page before launch | Diagnosis and rewrite brief |
 
-## Why This Can Get Stars
+## Why This Exists
 
-The pattern behind many high-star, lightweight GitHub projects is simple:
+AI agents work best when they receive more than a role prompt. They need the right context, a workflow to follow, an output contract, and checks that catch weak answers.
 
-- They promise an instantly understandable outcome.
-- They make the first screen useful without installation.
-- They organize knowledge into a durable taxonomy.
-- They make contribution easy through templates and obvious rules.
-- They update around a fast-moving topic people already search for.
-
-See [Star Study](docs/star-study.md) for the lightweight repo patterns this project learned from.
+This repo turns common work into repeatable recipes so teams can reuse good instructions instead of rewriting prompts from scratch.
 
 ## Recipe Format
 
