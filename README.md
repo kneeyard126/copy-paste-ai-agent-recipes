@@ -41,6 +41,12 @@ Each recipe gives you:
 | [PRD to Tickets Agent](recipes/prd-to-tickets.md) | Splitting product ideas into buildable work | User stories and acceptance criteria |
 | [Incident Postmortem Agent](recipes/incident-postmortem.md) | Writing calm, blameless postmortems | Timeline, causes, actions |
 | [Marketing Page Critic Agent](recipes/marketing-page-critic.md) | Improving a landing page before launch | Diagnosis and rewrite brief |
+| [Context Pack Builder Agent](recipes/context-pack-builder.md) | Preparing compact context for another agent | Context pack and next steps |
+| [Agent Skill Author Agent](recipes/agent-skill-author.md) | Turning a workflow into a reusable skill | Skill instructions and trigger rules |
+| [MCP Server Review Agent](recipes/mcp-server-review.md) | Reviewing MCP servers before connecting them | Permission inventory and risk decision |
+| [Agent Evals Agent](recipes/agent-evals.md) | Testing prompt or agent workflow quality | Test cases and scoring rubric |
+| [Browser QA Agent](recipes/browser-qa.md) | Testing web flows with a browser agent | Issues, reproduction steps, evidence |
+| [AI Agent Security Review Agent](recipes/ai-agent-security-review.md) | Reviewing agent security before launch | Risks, controls, launch recommendation |
 
 ## Why This Exists
 

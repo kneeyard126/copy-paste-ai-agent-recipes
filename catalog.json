@@ -82,6 +82,47 @@
     "file": "recipes/marketing-page-critic.md",
     "category": "marketing",
     "summary": "Audit a landing page for clarity, trust, conversion, and messaging."
+  },
+  {
+    "id": "context-pack-builder",
+    "title": "Context Pack Builder Agent",
+    "file": "recipes/context-pack-builder.md",
+    "category": "agents",
+    "summary": "Turn messy project information into a compact context pack for another agent."
+  },
+  {
+    "id": "agent-skill-author",
+    "title": "Agent Skill Author Agent",
+    "file": "recipes/agent-skill-author.md",
+    "category": "agents",
+    "summary": "Convert a repeatable workflow into a reusable AI agent skill or instruction file."
+  },
+  {
+    "id": "mcp-server-review",
+    "title": "MCP Server Review Agent",
+    "file": "recipes/mcp-server-review.md",
+    "category": "agents",
+    "summary": "Review an MCP server before connecting it to an AI agent."
+  },
+  {
+    "id": "agent-evals",
+    "title": "Agent Evals Agent",
+    "file": "recipes/agent-evals.md",
+    "category": "agents",
+    "summary": "Create evaluation cases for an AI agent workflow or prompt."
+  },
+  {
+    "id": "browser-qa",
+    "title": "Browser QA Agent",
+    "file": "recipes/browser-qa.md",
+    "category": "qa",
+    "summary": "Use an AI browser agent to test a web flow like a real user."
+  },
+  {
+    "id": "ai-agent-security-review",
+    "title": "AI Agent Security Review Agent",
+    "file": "recipes/ai-agent-security-review.md",
+    "category": "security",
+    "summary": "Review an AI agent workflow for prompt injection, unsafe tools, data exposure, and human approval gaps."
   }
 ]
-

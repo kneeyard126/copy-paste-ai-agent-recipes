@@ -34,6 +34,12 @@
 | [PRD to Tickets Agent](recipes/prd-to-tickets.md) | PRD 拆成工程 tickets |
 | [Incident Postmortem Agent](recipes/incident-postmortem.md) | 写无责事故复盘 |
 | [Marketing Page Critic Agent](recipes/marketing-page-critic.md) | 检查落地页文案和转化问题 |
+| [Context Pack Builder Agent](recipes/context-pack-builder.md) | 把杂乱资料整理成给下一个 Agent 用的上下文包 |
+| [Agent Skill Author Agent](recipes/agent-skill-author.md) | 把重复工作流沉淀成可复用的 Agent Skill |
+| [MCP Server Review Agent](recipes/mcp-server-review.md) | 接入 MCP Server 前做权限和风险审查 |
+| [Agent Evals Agent](recipes/agent-evals.md) | 给 Agent 工作流设计评测用例和评分标准 |
+| [Browser QA Agent](recipes/browser-qa.md) | 用浏览器 Agent 测试真实网页流程 |
+| [AI Agent Security Review Agent](recipes/ai-agent-security-review.md) | 审查 Agent 的工具、数据、权限和安全风险 |
 
 ## 为什么需要它
 
